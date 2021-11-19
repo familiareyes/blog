@@ -2,7 +2,7 @@
 title: "Stuff of Alchemist's Dreams"
 date: 2021-11-18
 menu: blog
-draft: true
+draft: false
 description: "this is from description field in front-matter..."
 summary: "this is from the summary field in front-matter"
 weight: 1
