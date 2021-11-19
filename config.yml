@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: /public
 title: Familiar Eyes
 paginate: 5
 theme: PaperMod
@@ -70,7 +70,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Familiar Eyes"
-    Content: Late-bloomer trying to figure it out
+    Content: "Late-bloomer trying to figure it out"
 
   socialIcons:
 
