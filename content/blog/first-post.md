@@ -1,8 +1,11 @@
 ---
-title: "First Post"
-date: 2021-11-18T15:40:25-05:00
+title: "Stuff of Alchemist's Dreams"
+date: 2021-11-18
 menu: blog
 draft: true
+description: "this is from description field in front-matter..."
+summary: "this is from the summary field in front-matter"
+weight: 1
 ---
 
 ## This is my first post.
@@ -10,7 +13,7 @@ How does it look?
 
 {{< blockquote >}}
 This is a blockquote!
-{{< /blockquote>}}
+{{< /blockquote >}}
 
 * ul list one
 * two

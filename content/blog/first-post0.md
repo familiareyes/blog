@@ -1,8 +1,9 @@
 ---
-title: "First Post"
+title: "Second Post"
 date: 2021-11-18T15:40:25-05:00
 menu: blog
 draft: true
+weight: 2
 ---
 
 ## This is my first post.
@@ -10,7 +11,7 @@ How does it look?
 
 {{< blockquote >}}
 This is a blockquote!
-{{< /blockquote>}}
+{{< /blockquote >}}
 
 * ul list one
 * two

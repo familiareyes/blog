@@ -3,6 +3,7 @@ title: Familiar Eyes
 paginate: 5
 theme: PaperMod
 
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -25,7 +26,7 @@ params:
   disableThemeToggle: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
