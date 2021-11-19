@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Familiar Eyes</title>
-    <link>/public/</link>
+    <link>/</link>
     <description>Recent content on Familiar Eyes</description>
     <image>
-      <url>/public/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/public/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Nov 2021 15:40:25 -0500</lastBuildDate><atom:link href="/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 15:40:25 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stuff of Alchemist&#39;s Dreams</title>
-      <link>/public/blog/first-post/</link>
+      <link>/blog/first-post/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/public/blog/first-post/</guid>
+      <guid>/blog/first-post/</guid>
       <description>this is from description field in front-matter...</description>
     </item>
     
     <item>
       <title>Second Post</title>
-      <link>/public/blog/first-post0/</link>
+      <link>/blog/first-post0/</link>
       <pubDate>Thu, 18 Nov 2021 15:40:25 -0500</pubDate>
       
-      <guid>/public/blog/first-post0/</guid>
+      <guid>/blog/first-post0/</guid>
       <description>This is my first post. How does it look?
  This is a blockquote!
      ul list one two three   ordered list ordered list ordered list  How does bold look? What about itallics?
@@ -33,10 +33,10 @@ GOOD LUCK HAVE FUN!!! </description>
     
     <item>
       <title>Third Post</title>
-      <link>/public/blog/first-post1/</link>
+      <link>/blog/first-post1/</link>
       <pubDate>Thu, 18 Nov 2021 15:40:25 -0500</pubDate>
       
-      <guid>/public/blog/first-post1/</guid>
+      <guid>/blog/first-post1/</guid>
       <description>This is my first post. How does it look?
  This is a blockquote!
      ul list one two three   ordered list ordered list ordered list  How does bold look? What about itallics?
@@ -45,10 +45,10 @@ GOOD LUCK HAVE FUN!!! </description>
     
     <item>
       <title>Furth Post</title>
-      <link>/public/blog/first-post2/</link>
+      <link>/blog/first-post2/</link>
       <pubDate>Thu, 18 Nov 2021 15:40:25 -0500</pubDate>
       
-      <guid>/public/blog/first-post2/</guid>
+      <guid>/blog/first-post2/</guid>
       <description>This is my first post. How does it look?
  This is a blockquote!
      ul list one two three   ordered list ordered list ordered list  How does bold look? What about itallics?
@@ -57,10 +57,10 @@ GOOD LUCK HAVE FUN!!! </description>
     
     <item>
       <title>Fifth Post</title>
-      <link>/public/blog/first-post3/</link>
+      <link>/blog/first-post3/</link>
       <pubDate>Thu, 18 Nov 2021 15:40:25 -0500</pubDate>
       
-      <guid>/public/blog/first-post3/</guid>
+      <guid>/blog/first-post3/</guid>
       <description>This is my first post. How does it look?
  This is a blockquote!
      ul list one two three   ordered list ordered list ordered list  How does bold look? What about itallics?
@@ -69,10 +69,10 @@ GOOD LUCK HAVE FUN!!! </description>
     
     <item>
       <title>Sixth Post</title>
-      <link>/public/blog/first-post4/</link>
+      <link>/blog/first-post4/</link>
       <pubDate>Thu, 18 Nov 2021 15:40:25 -0500</pubDate>
       
-      <guid>/public/blog/first-post4/</guid>
+      <guid>/blog/first-post4/</guid>
       <description>This is my first post. How does it look?
  This is a blockquote!
      ul list one two three   ordered list ordered list ordered list  How does bold look? What about itallics?
@@ -81,10 +81,10 @@ GOOD LUCK HAVE FUN!!! </description>
     
     <item>
       <title>My 1st post</title>
-      <link>/public/page/</link>
+      <link>/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>/public/page/</guid>
+      <guid>/page/</guid>
       <description>Desc Text.</description>
     </item>
     
